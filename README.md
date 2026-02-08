@@ -70,7 +70,7 @@ A full ecosystem that showcases **architecture, documentation, security, streami
 
 ---
 
-## Featured repositories (pin these on your profile)
+## Featured repositories 
 - `canfixit-frontend-react-native` — Mobile app, streaming AI chat, architecture docs
 - `canfixit-backend-node` — Node gateway + REST/WebSockets, Redis/MongoDB, streaming endpoints
 - `canfixit-backend-python` — FastAPI AI backend, state + conversation continuity patterns
@@ -89,8 +89,8 @@ A full ecosystem that showcases **architecture, documentation, security, streami
 
 ## Let’s connect
 - GitHub: https://github.com/SoroushArb
-<!-- - LinkedIn: https://linkedin.com/in/soroush-arab -->
-<!-- - Email: mail@sorousharab.com -->
+- LinkedIn: https://linkedin.com/in/soroush-arab
+- Email: mail@sorousharab.com
 
 ---
 
