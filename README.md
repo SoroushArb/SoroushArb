@@ -5,27 +5,26 @@ Then add this as README.md
 -->
 
 <h1 align="center">Soroush Arab</h1>
-<h3 align="center"> • Embedded & Automotive Software • High‑Performance Python • Full‑Stack Systems</h3>
+<h3 align="center">Technical Lead • Embedded & Automotive Software • High-Performance Python • Full‑Stack Systems</h3>
 
 <p align="center">
   <a href="https://github.com/SoroushArb">
     <img src="https://img.shields.io/badge/GitHub-SoroushArb-111?style=for-the-badge&logo=github" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Embedded%20%2B%20Platform%20Engineering-111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Automotive%20%26%20AI%20Systems-111?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Build-Production--Grade-111?style=for-the-badge" />
 </p>
 
 ---
 
-## About me (in 20 seconds)
-I’m a **Software Integration Engineer** with deep experience in **automotive ECUs, embedded debugging, and systems integration**, and I also build **production-oriented software platforms** (mobile + backend + AI services + infrastructure).
+## About Me (in 20 seconds)
+I’m a **Technical Lead / Software Integration Engineer** with a strong background in **automotive ECUs, embedded debugging, and virtual platforms**, and I also build **production-ready, full-stack platforms** (mobile + backend + AI services + infra).
 
-I like projects where **performance, reliability, security, and developer experience** all matter—and where engineering decisions are **measurable and maintainable**.
+I enjoy building systems where **performance, reliability, security, and developer experience** all matter.
 
 ---
 
-## What I build (themes you’ll see across my work)
-
+## What I’m doing now
 ### Backend & Systems Engineering
 - High-throughput services in **Python** and **C/C++**
 - Real-time and streaming patterns (**SSE / WebSockets**), async architecture, queueing, state management
@@ -37,48 +36,50 @@ I like projects where **performance, reliability, security, and developer experi
 
 ---
 
-## Highlights from my GitHub (what these repos demonstrate)
-> I intentionally keep my public work focused on **architecture and implementation patterns** you’d use in real production systems.
+## Highlights you can see in my GitHub (real production patterns)
+### A Platform (multi-repo, production mindset)
+A full ecosystem that showcases **architecture, documentation, security, streaming, and deployment**:
 
-### Multi-repo platform architecture (app + backend + services + infra)
-You’ll find a set of repositories that collectively showcase:
-- **App engineering (React Native)**: authentication flows, real UX patterns, streaming chat integrations
-- **Backend gateway patterns (Node.js)**: REST + WebSockets, Redis/MongoDB integrations, service boundaries
-- **AI backend patterns (Python/FastAPI)**: orchestration, state, conversation continuity, async + streaming
-- **TypeScript service modules**: layered architecture, RBAC, auditing, queue-based workflows
-- **Infrastructure and deployment**: Dockerized environments, routing patterns, production-like layout
+- **Mobile App (React Native)**: streaming AI chat (SSE), media pipelines, auth flows, and real-world UX patterns  
+- **Backend (Node.js)**: REST + WebSockets + Redis + MongoDB + integrations, streaming gateway to Python AI  
+- **Backend (Python/FastAPI)**: AI orchestration, state management, conversation continuity, WebSockets  
+- **AI Support (TypeScript)**: 3-layer architecture (packet → RAG/orchestrator → executor), auditing, RBAC, queues  
+- **Infra**: canonical production stack, **Traefik**, automated deployments, guardrails, rollback strategy
 
-If you’re reviewing my work: look for **clean separation of concerns**, **docs**, **security checks**, and **deployment realism**.
+> I strongly believe good engineering includes **good documentation** — many of my repos include architecture and implementation reports, security notes, and deployment guides.
 
 ---
 
 ## Core strengths
-- **Automotive Software Bring‑Up & Integration** (program-facing, not just lab prototypes)
-- **Embedded Debugging**: TRACE32, assembly scripting, structured fault isolation
-- **Diagnostics**: UDS (ISO 14229), reprogramming flows, verification mindset
-- **Virtual Platforms**: SystemC/TLM vECUs, verification workflows aligned with safety thinking
-- **Backend Engineering**: Python + Node.js, Redis/MongoDB, streaming systems (SSE/WebSockets)
-- **Infra & Delivery**: Docker, CI/CD habits, service-scoped deployments, rollout/rollback awareness
+- **Embedded Debugging**: Lauterbach TRACE32, assembly scripting, smoke tests, fault isolation
+- **Diagnostics**: UDS (ISO 14229), reprogramming flows, network management
+- **Virtual Platforms**: ISO 26262-3 aligned verification workflows
+- **Backend Engineering**: Python + C/C++, Redis/MongoDB, async systems, streaming (SSE/WebSockets)
+- **Infra & Delivery**: Docker, CI/CD, service-scoped deploys, production guardrails
 
 ---
 
 ## Tech I work with
 **Languages / Modeling**
-- Python, C/C++, Assembly, Bash, UML  
-- TypeScript/JavaScript for full‑stack systems
-
-**Automotive / Buses**
-- CAN, LIN, FlexRay, Ethernet, SPI, UART, OneWire, I2C
+- Python, C/C++, Bash, UML
 
 **Debug & Tools**
-- TRACE32, gdb, Valgrind  
-- CANoe, ETAS tooling, VehicleSpy  
-- Git, Docker, microservices patterns, Agile/Scrum
+- TRACE32, gdb 
+- Git, Docker, Microservices
+
+---
+
+## Featured repositories 
+- `ca***t-frontend-react-native` — Mobile app, streaming AI chat, architecture docs
+- `ca***t-backend-node` — Node gateway + REST/WebSockets, Redis/MongoDB, streaming endpoints
+- `ca***t-backend-python` — FastAPI AI backend, state + conversation continuity patterns
+- `ca***t-ai-support` — TypeScript AI support module, RBAC + auditing + queues
+- `ca***t-infra` — Production stack: compose + Traefik + automated deployments
 
 ---
 
 ## Engineering values
-- **Performance with predictability** (benchmarks and stability, not “fast vibes”)
+- **Performance with predictability** (not just “fast”, but measurable + stable)
 - **Security by design** (auth, ownership checks, rate limits, safe defaults)
 - **Maintainable architecture** (clear boundaries, docs, DX)
 - **Production pragmatism** (observability, rollout safety, rollback paths)
@@ -93,18 +94,12 @@ If you’re reviewing my work: look for **clean separation of concerns**, **docs
 ---
 
 <details>
-  <summary><b>Extra: quick “interactive” section</b> (click to open)</summary>
+  <summary><b>Extra: Quick “Interactive” section</b> (click to open)</summary>
 
 ### If you like systems engineering…
-Ask me about:
-- High‑throughput Python patterns (multiprocessing, queues, backpressure)
-- Streaming systems (SSE/WebSockets) and “real-time-ish” UX
-- Automotive bring‑up workflows and fault isolation strategy
+- Ask me about: **MDF parsing pipelines**, **high-throughput Python**, **SSE/WebSocket streaming**, **automotive bring-up**, or **virtual ECUs**.
 
 ### If you like platform engineering…
-I enjoy:
-- Service boundaries, deployment guardrails, and “boring” reliability
-- Routing patterns, reverse proxies, and production layouts
-- Writing documentation that makes systems easier to operate and extend
+- I enjoy: **service-scoped deploys**, **Traefik routing**, **guardrails**, **infra-as-code**, and “boring” reliability work.
 
 </details>
