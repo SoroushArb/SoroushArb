@@ -97,9 +97,15 @@ A full ecosystem that showcases **architecture, documentation, security, streami
   <summary><b>Extra: Quick “Interactive” section</b> (click to open)</summary>
 
 ### If you like systems engineering…
-- Ask me about: **MDF parsing pipelines**, **high-throughput Python**, **SSE/WebSocket streaming**, **automotive bring-up**, or **virtual ECUs**.
+Ask me about:
+- High‑throughput Python patterns (multiprocessing, queues, backpressure)
+- Streaming systems (SSE/WebSockets) and “real-time-ish” UX
+- Automotive bring‑up workflows and fault isolation strategy
 
 ### If you like platform engineering…
-- I enjoy: **service-scoped deploys**, **Traefik routing**, **guardrails**, **infra-as-code**, and “boring” reliability work.
-
+I enjoy:
+- Service boundaries, deployment guardrails, and “boring” reliability
+- Routing patterns, reverse proxies, and production layouts
+- Writing documentation that makes systems easier to operate and extend
+  
 </details>
