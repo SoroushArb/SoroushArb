@@ -5,7 +5,7 @@ Then add this as README.md
 -->
 
 <h1 align="center">Soroush Arab</h1>
-<h3 align="center">Technical Lead • Embedded & Automotive Software • High-Performance Python • Full‑Stack Systems</h3>
+<h3 align="center">• Embedded & Automotive Software • High-Performance Python • Full‑Stack Systems</h3>
 
 <p align="center">
   <a href="https://github.com/SoroushArb">
@@ -18,7 +18,7 @@ Then add this as README.md
 ---
 
 ## About Me (in 20 seconds)
-I’m a **Technical Lead / Software Integration Engineer** with a strong background in **automotive ECUs, embedded debugging, and virtual platforms**, and I also build **production-ready, full-stack platforms** (mobile + backend + AI services + infra).
+I’m a **Software Integration Engineer** with a strong background in **automotive ECUs, embedded debugging, and virtual platforms**, and I also build **production-ready, full-stack platforms** (mobile + backend + AI services + infra).
 
 I enjoy building systems where **performance, reliability, security, and developer experience** all matter.
 
