@@ -25,10 +25,6 @@ I like projects where **performance, reliability, security, and developer experi
 ---
 
 ## What I build (themes you’ll see across my work)
-### Embedded & Automotive Engineering
-- ECU bring‑up, integration, and fault isolation on real programs
-- Debugging workflows using **TRACE32**, low-level tooling, and targeted smoke tests
-- Diagnostics and reprogramming flows (**UDS / ISO 14229**) and network behavior awareness
 
 ### Backend & Systems Engineering
 - High-throughput services in **Python** and **C/C++**
